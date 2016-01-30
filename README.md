@@ -1,9 +1,8 @@
 
-Android BluetoothChat Sample
+Android GoCashless Sample
 ===================================
 
-This sample shows how to implement two-way text chat over Bluetooth between two Android devices, using
-all the fundamental Bluetooth API capabilities.
+This sample app shows the Cashless Money Transaction mentioned in the presentation over Bluetooth between two Android devices
 
 Introduction
 ------------
@@ -21,13 +20,6 @@ The sample demonstrates the following, using the [Bluetooth API][1]:
 5. [Connecting][6] to a remote device
 6. [Transfering][7] data over Bluetooth
 
-[1]: http://developer.android.com/guide/topics/connectivity/bluetooth.html
-[2]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#Permissions
-[3]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#FindingDevices
-[4]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#QueryingPairedDevices
-[5]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#ConnectingDevices
-[6]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#ConnectingAsAClient
-[7]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#ManagingAConnection
 
 Pre-requisites
 --------------
@@ -36,10 +28,6 @@ Pre-requisites
 - Android Build Tools v23.0.2
 - Android Support Repository
 
-Screenshots
--------------
-
-<img src="screenshots/1-launch.png" height="400" alt="Screenshot"/> <img src="screenshots/2-devices.png" height="400" alt="Screenshot"/> <img src="screenshots/3-chat.png" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------
@@ -59,23 +47,5 @@ https://github.com/googlesamples/android-BluetoothChat
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
-License
--------
 
-Copyright 2014 The Android Open Source Project, Inc.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
 # GoCashless
