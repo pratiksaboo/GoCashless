@@ -16,7 +16,6 @@ import com.example.android.common.logger.MessageOnlyLogFilter;
 public class MainActivity extends SampleActivityBase {
 
     public static final String TAG = "MainActivity";
-
     // Whether the Log Fragment is currently shown
     private boolean mLogShown;
 
